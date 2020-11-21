@@ -21,4 +21,6 @@ The Swift Package Manager is a tool for managing the distribution of Swift code.
 
 Swift packages are reusable components of Swift, Objective-C, Objective-C++, C, or C++ code that developers can use in their projects. They bundle source files, binaries, and resources in a way that’s easy to use in your app’s project.
 
+[More Information](https://github.com/patrikgerdin/swift-documentation/tree/master/Swift%20Package%20Manager)
+
 <br>
