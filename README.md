@@ -21,7 +21,7 @@ The Swift Package Manager is a tool for managing the distribution of Swift code.
 
 Swift packages are reusable components of Swift, Objective-C, Objective-C++, C, or C++ code that developers can use in their projects. They bundle source files, binaries, and resources in a way that’s easy to use in your app’s project.
 
-[More Information](https://github.com/patrikgerdin/swift-documentation/tree/master/Swift%20Package%20Manager)
+[Swift Package Manager](https://github.com/patrikgerdin/swift-documentation/tree/master/Swift%20Package%20Manager)
 
 <br>
 
@@ -30,3 +30,11 @@ Swift packages are reusable components of Swift, Objective-C, Objective-C++, C, 
 [developer.apple.com/swiftui](https://developer.apple.com/documentation/swiftui)
 
 SwiftUI is a modern way to declare user interfaces for any Apple platform. SwiftUI provides views, controls, and layout structures for declaring the app’s user interface. 
+
+<br>
+
+## Foundation
+
+[developer.apple.com/foundation](https://developer.apple.com/documentation/foundation)
+
+The Foundation framework provides a base layer of functionality for apps and frameworks, including data storage and persistence, text processing, date and time calculations, sorting and filtering, and networking. The classes, protocols, and data types defined by Foundation are used throughout the macOS, iOS, watchOS, and tvOS SDKs.
