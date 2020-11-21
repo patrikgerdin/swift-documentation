@@ -8,6 +8,8 @@
 
 Swift is a general-purpose programming language built using a modern approach to safety, performance, and software design patterns. The goal of the Swift project is to create the best available language for uses ranging from systems programming, to mobile and desktop apps, scaling up to cloud services.
 
+[Swift](https://github.com/patrikgerdin/swift-documentation/tree/master/Swift)
+
 <br>
 
 ## Swift Package Manager
@@ -31,6 +33,8 @@ Swift packages are reusable components of Swift, Objective-C, Objective-C++, C, 
 
 SwiftUI is a modern way to declare user interfaces for any Apple platform. SwiftUI provides views, controls, and layout structures for declaring the app’s user interface. 
 
+[SwiftUI](https://github.com/patrikgerdin/swift-documentation/tree/master/SwiftUI)
+
 <br>
 
 ## Foundation
@@ -38,3 +42,5 @@ SwiftUI is a modern way to declare user interfaces for any Apple platform. Swift
 [developer.apple.com/foundation](https://developer.apple.com/documentation/foundation)
 
 The Foundation framework provides a base layer of functionality for apps and frameworks, including data storage and persistence, text processing, date and time calculations, sorting and filtering, and networking. The classes, protocols, and data types defined by Foundation are used throughout the macOS, iOS, watchOS, and tvOS SDKs.
+
+[Foundation](https://github.com/patrikgerdin/swift-documentation/tree/master/Foundation)
