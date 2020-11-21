@@ -1,7 +1,6 @@
 # Swift Package Manager
 
-[swift.org/package-manager](https://swift.org/package-manager/)
-
+[swift.org/package-manager](https://swift.org/package-manager/)  
 [developer.apple.com/swift-packages](https://developer.apple.com/documentation/swift_packages)  
 [github.com/apple/swift-package-manager](https://github.com/apple/swift-package-manager/blob/main/Documentation/Usage.md)
 
