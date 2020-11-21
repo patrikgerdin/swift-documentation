@@ -1,4 +1,4 @@
-# Date and Times
+# Dates and Times
 
 [developer.apple.com/dates-and-times](https://developer.apple.com/documentation/foundation/dates_and_times)
 
